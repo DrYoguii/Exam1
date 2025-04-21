@@ -1,11 +1,10 @@
-[webExamen]: https://srodriguez.testigrab.cl/exam1/
-[webRepo]: https://github.com/Tenchys/Examen1IPSS
-
+[webExamen]: https://bsanchez.bentec.cl
+[webRepo]: https://github.com/DrYoguii/Exam1
 # Pagina web corriendo en el siguente link
 [Examen1][webExamen]
 
 ## Link repo
-[https://github.com/Tenchys/Examen1IPSS][webRepo]
+[https://github.com/DrYoguii/Exam1][webRepo]
 
 ## Estructura Pagina
 
